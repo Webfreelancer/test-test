@@ -1,0 +1,17 @@
+@-webkit-keyframes play-1 {
+	from {
+		-webkit-transform: rotate(0deg);
+	}
+	to {
+		-webkit-transform: rotate(359deg);
+	}
+}
+
+@-webkit-keyframes play-2 {
+	from {
+		-webkit-transform: rotate(0deg);
+	}
+	to {
+		-webkit-transform: rotate(-359deg);
+	}
+}
